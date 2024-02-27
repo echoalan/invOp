@@ -32,5 +32,3 @@ function simularReservas(numSaturdays) {
 }
 
 simularReservas(50); //50 sabados
-
-//alan del futuro, estaria bueno codear en ingles!!!!!!!!!!! cabeza de termo 
